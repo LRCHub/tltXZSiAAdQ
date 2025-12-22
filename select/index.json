@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "何度　LOVE SONGの歌詞を読み返しただろう",
+  "base_artist": "櫻坂46",
+  "createdAt": "2025-12-22T06:20:09.696724Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "何度　LOVE SONGの歌詞を読み返しただろう",
+      "artist": "Sakurazaka46",
+      "has_synced": true,
+      "path": "select/01_何度_LOVE_SONGの歌詞を読み返しただろう_Sakurazaka46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "何度　LOVE SONGの歌詞を読み返しただろう",
+      "artist": "櫻坂46",
+      "has_synced": true,
+      "path": "select/02_何度_LOVE_SONGの歌詞を読み返しただろう_櫻坂46.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "何度　LOVE SONGの歌詞を読み返しただろう",
+      "artist": "Sakurazaka46",
+      "has_synced": false,
+      "path": "select/03_何度_LOVE_SONGの歌詞を読み返しただろう_Sakurazaka46.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "何度 LOVE SONGの歌詞を読み返しただろう",
+      "artist": "櫻坂46",
+      "has_synced": false,
+      "path": "select/pl_01_何度_LOVE_SONGの歌詞を読み返しただろう_櫻坂46.txt"
+    }
+  ]
+}
